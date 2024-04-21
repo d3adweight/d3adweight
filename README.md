@@ -3,6 +3,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=zangetsuuuu&icon=0&color=12)](https://visitcount.itsvg.in)
 
+### 🙋‍♂️ About Me
+I'm a student of Computer Engineering with a keen interest in the world of web development, particularly in design and front-end development. Currently, I'm delving into PHP programming to create innovative web applications.
+
+- 📚 Pursuing a degree in Computer Engineering.
+- 💻 Actively learning and evolving in the fields of design and front-end development.
+- 🚀 Firm believer that good design is the key to an exceptional user experience.
+- 🔍 Currently focusing on honing skills in PHP.
+
 ### 🛠️ Recent Projects
 - 🚗 [Manual Vehicle Parking System](https://github.com/zangetsuuuu/sistem-parkir-kendaraan)
 - 🚽 [Toilet Checklist Website](https://github.com/zangetsuuuu/sistem-checklist-kebersihan-toilet)
