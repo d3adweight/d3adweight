@@ -1,7 +1,14 @@
-<h1 align="center">👋 Hi, I'm Rafif Athallah</h1>
-<br>
+<p align="center">
+  <img src="https://github.com/zangetsuuuu/zangetsuuuu/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="snake contribution">
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=zangetsuuuu&icon=0&color=12)](https://visitcount.itsvg.in)
+<h1 align="center">👋 Hi, I'm Rafif Athallah</h1>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=zangetsuuuu&icon=0&color=12">
+    <img src="https://visitcount.itsvg.in/api?id=zangetsuuuu&icon=0&color=12" alt="profile views">
+  </a>
+</p>
 
 ### 🙋‍♂️ About Me
 I'm a student of Computer Engineering with a keen interest in the world of web development, particularly in design and front-end development. Currently, I'm delving into PHP programming to create innovative web applications.
@@ -22,6 +29,3 @@ I'm a student of Computer Engineering with a keen interest in the world of web d
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
