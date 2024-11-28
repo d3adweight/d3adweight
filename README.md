@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/adadad93-0679-44ed-9354-9e5384e5dcf8/project/43365237-d4fc-4300-aed5-88c60a33d0a0.svg)](https://wakatime.com/badge/user/adadad93-0679-44ed-9354-9e5384e5dcf8/project/43365237-d4fc-4300-aed5-88c60a33d0a0)
+![wakapi](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/rafthllh/interval:all_time&label=wakapi&color=blue&logo=wakatime)
 
 👋 Hi, I'm Rafif Athallah
 
