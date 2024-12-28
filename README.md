@@ -1,5 +1,3 @@
-![wakapi](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/rafthllh/interval:all_time&label=wakapi&color=blue&logo=wakatime)
-
 👋 Hi, I'm Rafif Athallah
 
 I am a informatics engineering student with an interest in web development, particularly frontend development. Currently, I am learning React.js. I also enjoy creating GFX designs using Figma or Alight Motion from time to time.
