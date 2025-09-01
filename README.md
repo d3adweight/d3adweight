@@ -1,4 +1,4 @@
-👋 Hi, I'm Rafif Athallah
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="18px" /> Hi, I'm Rafif Athallah
 
 I’m an informatics engineering student passionate about crafting intuitive web experiences, starting from frontend and moving towards fullstack development. Right now, I’m learning React and TypeScript to build reliable web applications. I also enjoy experimenting with design in Figma and Alight Motion, bringing both structure and creativity into my work.
 
